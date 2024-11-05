@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil! Sou um **Desenvolvedor Fullstack** com forte atuação 
 - **Backend**: Python (Django), APIs RESTful, PostgreSQL
 - **Frontend**: JavaScript (ReactJS, JQuery), HTML5, CSS3, Bootstrap, Styled Components, Material UI, Ant Design
 - **Ferramentas**: Docker, Jenkins, Git, GitHub, Bitbucket
-- **Metodologias**: Agile, Scrum, Design Patterns
+- **Metodologias**: Agile, Scrum, Kanban, Design Patterns
 - **Testes**: Unitários, Testes de Integração
 
 ## 🚀 Projetos
