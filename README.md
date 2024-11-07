@@ -1,6 +1,6 @@
 # Olá, sou o Kayo Riccelo 👋
 
-Bem-vindo ao meu perfil! Sou um **Desenvolvedor Fullstack** com forte atuação em **Python**, **Django**, **JavaScript**, **ReactJS** e muitas outras tecnologias. Tenho mais de 11 anos de experiência desenvolvendo sistemas complexos, focados principalmente em soluções para **gestão pública** e **processos de licitação**. Ao longo da minha trajetória, me especializei em criar **aplicações escaláveis**, com foco na **performance**, **manutenibilidade** e **experiência do usuário**.
+Bem-vindo ao meu perfil! Sou um **Desenvolvedor Fullstack** com forte atuação em **Python**, **Django**, **JavaScript**, **ReactJS** e outras tecnologias. Tenho mais de 11 anos de experiência desenvolvendo sistemas complexos, focados principalmente em soluções para **gestão pública** e **processos de licitação**. Ao longo da minha trajetória, me especializei em criar **aplicações escaláveis**, com foco na **performance**, **manutenibilidade** e **experiência do usuário**.
 
 ## 🛠️ Habilidades Técnicas
 
